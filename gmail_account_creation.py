@@ -2,7 +2,9 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Aug 17 17:44:47 2018
-
+Automation of Gmail Account Creation Page using selenium webdriver and Python.
+Intended Audience : Developer.
+Contact email: rohit782192@gmail.com
 @author: rohit
 """
 
